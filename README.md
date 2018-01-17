@@ -1,8 +1,8 @@
 # docker-php-composer
-Dockerfile for the tstrohmeier/php-composer image
+Dockerfile for the byteheroes/php-composer image
 
-https://hub.docker.com/r/tstrohmeier/php-composer/
+https://hub.docker.com/r/byteheroes/php-composer
 
 ``` bash
-docker pull tstrohmeier/php-composer
+docker pull byteheroes/php-composer
 ```
