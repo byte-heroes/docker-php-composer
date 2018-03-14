@@ -1,4 +1,4 @@
-FROM php:7.1.11
+FROM php:7.2-cli
 
 MAINTAINER Thomas Strohmeier
 
